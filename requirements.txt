@@ -1,8 +1,13 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pyyaml
+python-dotenv
+pandas
+chromadb
 langchain
 langchain-chroma
 langchain-huggingface
-transformers
+langchain-openai
+langchain-text-splitters
 sentence-transformers
-scikit-learn
-pandas
-chromadb
